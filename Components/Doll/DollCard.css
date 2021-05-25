@@ -1,0 +1,18 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500);
+
+.pricing4 {
+  font-family: "Montserrat", sans-serif;
+  color: #8d97ad;
+  font-weight: 300;
+}
+h1,h6,p{
+    font-family: Cursive , monospace;
+}
+.card{
+  border-radius: 5%;
+}
+.card-img-top{
+  border-radius: 5%;
+}
+
+
